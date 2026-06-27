@@ -1,0 +1,9 @@
+Những thứ cần thiết : 
+Folder hình ảnh
+Chia 4 folder
+Các thứ cần làm : 
+Index
+Main game
+Congrat
+Level 
+Menu
