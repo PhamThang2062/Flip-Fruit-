@@ -1,0 +1,90 @@
+Câu lệnh 1 — DẠY TÔI TỪ SỐ 0
+Dựa hoàn toàn trên tài liệu tôi tải lên, hãy dạy lại chủ đề này cho tôi như một gia sư đang hướng dẫn người mới bắt đầu.
+Hãy:
+Giải thích từ dễ đến khó.
+Chia nội dung thành từng phần nhỏ.
+Dùng ví dụ đơn giản.
+Giải thích lại những phần dễ gây nhầm.
+Sau mỗi phần, đặt cho tôi một câu hỏi ngắn để kiểm tra mức độ hiểu.
+Nếu tôi  sai, hãy chỉ ra chỗ sai và giải thích lại theo cách đơn giản hơn.
+
+Câu lệnh 2 — HỌC 1 GIỜ NHỚ CẢ TUẦN
+Từ tài liệu tôi cung cấp, hãy tạo cho tôi một buổi học 60 phút.
+Chia thời gian thành:
+10 phút nắm ý chính.
+20 phút học nội dung quan trọng.
+15 phút xem ví dụ.
+10 phút tự kiểm tra.
+5 phút tổng kết.
+Với mỗi phần, hãy chỉ rõ tôi cần đọc gì, ghi nhớ gì và tự hỏi bản thân điều gì.
+Ưu tiên những kiến thức quan trọng nhất.
+Cuối buổi, tạo một bản tóm tắt ngắn để tôi ôn lại vào ngày hôm sau.
+
+
+Câu lệnh 3 — BIẾN BÀI KHÓ THÀNH DỄ
+Tìm trong tài liệu những phần khó hiểu nhất và giải thích lại theo cách đơn giản hơn.
+Với mỗi phần, hãy trình bày theo 4 bước:
+Nội dung gốc đang nói gì.
+Vì sao phần này dễ gây khó hiểu.
+Cách giải thích bằng ngôn ngữ đời thường.
+Một ví dụ cụ thể giúp tôi hình dung.
+Nếu có nhiều khái niệm liên quan, hãy chỉ ra mối liên hệ giữa chúng.
+
+
+Câu lệnh 4 — KIỂM TRA NHƯ GIẢNG VIÊN
+Dựa trên toàn bộ tài liệu tôi tải lên, hãy tạo một bài kiểm tra để đánh giá xem tôi thực sự hiểu đến đâu.
+Bao gồm:
+5 câu dễ.
+5 câu trung bình.
+5 câu khó.
+3 câu yêu cầu giải thích bằng lời của tôi.
+2 tình huống thực tế để áp dụng kiến thức.
+Không đưa đáp án ngay.
+Sau khi tôi , hãy chấm từng câu, chỉ ra phần tôi còn yếu và đề xuất chính xác nội dung nào trong tài liệu tôi cần học lại.
+
+
+Câu lệnh 5 — HỌC BẰNG CÂU HỎI
+Không giải thích toàn bộ tài liệu ngay.
+Hãy dạy tôi bằng cách liên tục đặt câu hỏi.
+Bắt đầu từ câu đơn giản nhất để kiểm tra kiến thức nền.
+Dựa trên câu  của tôi, hãy tăng dần độ khó.
+Khi tôi  sai, đừng đưa đáp án ngay.
+Hãy cho thêm một gợi ý để tôi tự suy nghĩ.
+Chỉ giải thích đầy đủ khi tôi vẫn chưa hiểu.
+
+
+Câu lệnh 6 — TẠO BỘ NHỚ SIÊU NHANH
+Từ tài liệu này, hãy chọn ra những kiến thức quan trọng nhất mà tôi cần ghi nhớ lâu dài.
+Chuyển chúng thành các thẻ hỏi đáp ngắn.
+Mỗi thẻ gồm:
+Một câu hỏi.
+Một câu  ngắn.
+Một ví dụ nếu cần.
+Một lỗi dễ nhầm
+Ưu tiên khái niệm, công thức, số liệu và mối quan hệ quan trọng.
+Không tạo câu hỏi quá dài.
+Sắp xếp từ cơ bản đến nâng cao để tôi có thể dùng bộ thẻ này ôn nhanh mỗi ngày.
+
+Câu lệnh 7 — LUYỆN THI CẤP TỐC
+Tôi cần học tài liệu này để chuẩn bị cho: [MỤC TIÊU/KỲ THI].
+Hãy xây cho tôi kế hoạch ôn tập tập trung vào những phần có giá trị cao nhất.
+Chia thành:
+Phần bắt buộc phải nhớ.
+Phần bắt buộc phải hiểu.
+Phần dễ xuất hiện trong câu hỏi kiểm tra.
+Phần dễ nhầm.
+Phần có thể học sau.
+Sau đó tạo lịch học theo số ngày tôi còn lại.
+Mỗi ngày cần ghi rõ học gì, ôn gì và tự kiểm tra bằng câu hỏi nào.
+
+
+Câu lệnh 8 — GIA SƯ CÁ NHÂN 24/7
+Từ bây giờ, hãy đóng vai gia sư cá nhân của tôi và chỉ sử dụng tài liệu tôi đã cung cấp làm nền tảng chính.
+Khi tôi hỏi bất kỳ vấn đề nào, hãy:
+Trả lời trực tiếp.
+Giải thích ngắn gọn.
+Đưa ví dụ.
+Liên hệ với phần kiến thức liên quan.
+Đặt một câu hỏi kiểm tra lại tôi.
+Theo dõi những chủ đề tôi thường  sai.
+Mỗi khi kết thúc một buổi học, hãy tổng hợp 3 phần tôi đã hiểu và 3 phần tôi cần tiếp tục ôn tập.
